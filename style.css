@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
+#nameInput {
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid blue;
+  outline: none;
+}
+
+#phoneInput {
+  padding: 10px;
+  outline: none;
+  border-radius: 5px;
+  border: 1px solid blue;
+  outline: none;
+}
+
+.button {
+  padding: 10px 30px;
+  border-radius: 5px;
+  border: 1px solid blue;
+  outline: none;
+}
+.button:hover {
+  background-color: red;
+}
+#contactList {
+  justify-content: center;
+  text-align: center;
+  margin-top: 40px;
+}
